@@ -30,9 +30,10 @@ This repo covers:
 - [More Pandas practice and EDA](5_pandas_practice_3.ipynb)
 - [Combining DataFrames](6_combine_dataframes.ipynb)  
 You can work on the three following Notebooks as Extra Credit task, meaning that if you don`t have the time you can come back to it later during the course:  
-- [Extra Credit Pandas exercise](EXTRA_7_pandas_practice_4.ipynb)
-- [Introduction to Numpy](EXTRA_8_numpy.ipynb)
-- [Practice Numpy functionalities](EXTRA_9_numpy_practice.ipynb)
+- [Introduction to Numpy](EXTRA_7_numpy.ipynb)
+- [Practice Numpy functionalities](EXTRA_8_numpy_practice.ipynb)
+- [Extra Credit Pandas exercise](EXTRA_9_pandas_practice_4.ipynb)
+
 
 
 
