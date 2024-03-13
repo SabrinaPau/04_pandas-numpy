@@ -1,0 +1,543 @@
+,plr_id,plr_name
+0,08401245,Frauenviertel
+1,08401244,Waßmannsdorfer Chaussee
+2,08401246,Waltersdorfer Chaussee Ost
+3,08401243,Alt-Rudow
+4,08401242,Zittauer Straße
+5,08301037,Gropiusstadt Süd-Ost
+6,08301036,Gropiusstadt Mitte
+7,08401241,Blumenviertel
+8,08300934,Gropiusstadt Nord-West
+9,08300935,Gropiusstadt Süd-West
+10,08200833,Buckow Ost
+11,08200832,Buckow Mitte
+12,08200730,Handwerker-Siedlung
+13,08401139,Vogelviertel Süd
+14,08401140,Vogelviertel Nord
+15,08401138,Goldhähnchenweg
+16,08200728,Ortolanweg
+17,08200726,Hufeisensiedlung
+18,08200623,Park am Buschkrug
+19,08200622,Jahnstraße
+20,08100521,Schulenburgpark
+21,08100520,Weiße Siedlung
+22,08100418,Hertzbergplatz
+23,08100419,Treptower Straße Nord
+24,08100416,Alt-Rixdorf
+25,08100417,Braunschweiger Straße
+26,08100415,Ganghoferstraße
+27,08100207,Rollberg
+28,08100208,Körnerpark
+29,08100209,Glasower Straße
+30,08100206,Flughafenstraße
+31,08100314,Donaustraße
+32,08100312,Weichselplatz
+33,08100313,Bouchéstraße
+34,08100311,Reuterplatz
+35,08100310,Maybachufer
+36,02200213,Graefekiez Nord
+37,02200212,Graefekiez Süd
+38,08100101,Hasenheide
+39,08100102,Schillerpromenade Nord
+40,08100103,Schillerpromenade Süd
+41,08100104,Wartheplatz
+42,07400721,Paradestraße
+43,07400927,Rathaus Tempelhof
+44,07400928,Germaniagarten
+45,08100105,Silbersteinstraße
+46,08200624,Tempelhofer Weg
+47,08200727,Parchimer Allee Süd
+48,08200725,Mohriner Allee Nord
+49,08200729,Britzer Garten
+50,08200831,Buckow West
+51,07601548,Wittelsbacherstraße
+52,07601547,Horstwalder Straße
+53,07601544,John-Locke-Straße
+54,07601546,Franziusweg
+55,07601545,Nahariyastraße
+56,07601443,Töpchiner Weg
+57,07601442,Kettinger Straße
+58,07601341,Diedersdorfer Weg
+59,07601238,Marienfelde Nordost
+60,07501135,Birnhornweg
+61,07601237,Kirchstraße
+62,07601236,Marienfelder Allee Nordwest
+63,07601340,Tirschenreuther Ring Ost
+64,07601339,Tirschenreuther Ring West
+65,07501134,Hundsteinweg
+66,07501133,Fritz-Werner-Straße
+67,07501030,Machonstraße
+68,07501031,Eisenacher Straße
+69,07501032,Imbrosweg
+70,07400825,Friedrich-Karl-Straße
+71,07400824,Bosepark
+72,07400823,Wittekindstraße
+73,07300516,Odenwaldstraße
+74,07300515,Taunusstraße
+75,04501151,Hildegardstraße
+76,04501150,Wilhelmsaue
+77,04501153,Babelsberger Straße
+78,07200409,Belziger Straße
+79,07200307,Bayerischer Platz
+80,07200410,Feurigstraße
+81,07100204,Barbarossaplatz
+82,07100205,Alvenslebenstraße
+83,07100103,Frobenstraße
+84,07100102,Kalckreuthstraße
+85,07100101,Wittenbergplatz
+86,06200317,Lankwitz Süd
+87,06200423,Schütte-Lanz-Straße
+88,06200419,Thermometersiedlung
+89,06200315,Gallwitzallee
+90,06200316,Belßstraße
+91,06200311,Alt-Lankwitz
+92,06200312,Komponistenviertel Lankwitz
+93,06100205,Südende
+94,06100204,Munsterdamm
+95,06100208,Bergstraße
+96,06100207,Mittelstraße
+97,06300633,Augustaplatz
+98,06300632,Schweizer Viertel
+99,06300634,Lichterfelde West
+100,06300631,Goerzwerke
+101,06300525,Zehlendorf Süd
+102,06300528,Teltower Damm
+103,06300524,Berlepschstraße
+104,06300526,Zehlendorf Mitte
+105,06300527,Sundgauer Straße
+106,06400736,Düppel
+107,06400737,Nikolassee
+108,06400735,Wannsee
+109,06400838,Krumme Lanke
+110,06400839,Fischerhüttenstraße
+111,06400840,Fischtal
+112,06400841,Zehlendorf Eiche
+113,06400843,Thielallee
+114,06400844,Dahlem
+115,06400842,Hüttenweg
+116,06300629,Botanischer Garten
+117,06100101,Fichtenberg
+118,06100102,Schloßstraße
+119,06100103,Markelstraße
+120,06100209,Feuerbachstraße
+121,06100210,Bismarckstraße
+122,07100206,Großgörschenstraße
+123,07200414,Hohenfriedbergstraße
+124,07200411,Julius-Leber-Brücke
+125,02500836,Stralauer Halbinsel
+126,02500835,Stralauer Kiez
+127,02500834,Revaler Straße
+128,02500831,Wismarplatz
+129,02500833,Boxhagener Platz
+130,02500832,Traveplatz
+131,02500729,Pettenkofer Straße
+132,02500728,Samariterviertel
+133,02500830,Niederbarnimstraße
+134,02500727,Forckenbeckplatz
+135,02400522,Richard-Sorge-Viertel
+136,02500726,Hausburgviertel
+137,02400521,Friedenstraße
+138,02400520,Barnimkiez
+139,02300316,Köpenicker Straße
+140,02300315,Lausitzer Platz
+141,02300418,Reichenberger Straße Ost
+142,02300419,Wrangelkiez
+143,02300417,Reichenberger Straße West
+144,02200211,Chamissokiez
+145,02200209,Viktoriapark
+146,02100101,Askanischer Platz
+147,02200207,Gleisdreieck
+148,02100103,Am Berlin Museum
+149,02100104,Moritzplatz
+150,02100105,Prinzenstraße
+151,02100106,Wassertorplatz
+152,02300314,Oranienplatz
+153,04501152,Prager Platz
+154,04501149,Nikolsburger Platz
+155,04501147,Leon-Jessel-Platz
+156,04501148,Brabanter Platz
+157,04501146,Barstraße
+158,04400835,Rüdesheimer Platz
+159,04400834,Binger Straße
+160,04400833,Schlangenbader Straße
+161,04400832,Breite Straße
+162,04400831,Messelpark
+163,04400729,Hundekehle
+164,04200207,Eichkamp
+165,04200206,Kranzallee
+166,04200205,Flatowallee
+167,04200204,Angerburger Allee
+168,04200203,Olympiagelände
+169,04100102,Paul-Hertz-Siedlung
+170,04300517,Tegeler Weg
+171,04300518,Kaiserin-Augusta-Allee
+172,04300619,Alt-Lietzow
+173,04300620,Spreestadt
+174,04300621,Richard-Wagner-Straße
+175,04300623,Karl-August-Platz
+176,04300413,Klausenerplatz
+177,04300414,Schloßstraße
+178,04300415,Lietzensee
+179,04300416,Amtsgerichtsplatz
+180,04501040,Hindemithplatz
+181,04501041,George-Grosz-Platz
+182,04501042,Breitscheidplatz
+183,04501045,Schaperstraße
+184,04501044,Ludwigkirchplatz
+185,04501043,Preußenpark
+186,04500939,Eisenzahnstraße
+187,04400727,Flinsberger Platz
+188,04400830,Forckenbeckstraße
+189,04400726,Bismarckallee
+190,04400728,Hagenplatz
+191,04400725,Güterbahnhof Grunewald
+192,04500936,Droysenstraße
+193,04200310,Fürstenplatz
+194,04200311,Königin-Elisabeth-Straße
+195,04200309,Neu Westend
+196,01100313,Heine-Viertel Ost
+197,01100312,Heine-Viertel West
+198,01100207,Leipziger Straße
+199,06200418,Landweg
+200,01100206,Unter den Linden
+201,01100205,Wilhelmstraße
+202,01100309,Oranienburger Straße
+203,01100416,Arkonaplatz
+204,01300834,Brunnenstraße
+205,01300733,Gesundbrunnen
+206,01401045,Schwedenstraße
+207,01100310,Alexanderplatzviertel
+208,01100311,Karl-Marx-Allee
+209,01100415,Invalidenstraße
+210,01300835,Humboldthain Süd
+211,01100414,Nordbahnhof
+212,01300730,Drontheimer Straße
+213,01300731,Koloniestraße
+214,01300732,Soldiner Straße
+215,01401044,Uferstraße
+216,01401043,Antonstraße
+217,01400942,Westliche Müllerstraße
+218,01200518,Beusselkiez
+219,01200521,Zwinglistraße
+220,01400937,Afrikanische Straße
+221,01400938,Kameruner Straße
+222,01200517,Huttenkiez
+223,01200519,Emdener Straße
+224,01200520,Bremer Straße
+225,01200625,Lübecker Straße
+226,01200623,Stephankiez
+227,01200627,Zillesiedlung
+228,01200628,Lüneburger Straße
+229,01200626,Thomasiusstraße
+230,01200522,Elberfelder Straße
+231,01200629,Hansaviertel
+232,01100104,Körnerstraße
+233,01100103,Lützowstraße
+234,01100101,Stülerstraße
+235,01100102,Großer Tiergarten
+236,01401046,Nordufer
+237,01401047,Sparrplatz
+238,01401049,Schulstraße
+239,01401048,Leopoldplatz
+240,01400940,Schillerpark
+241,01400941,Londoner Straße
+242,01400939,Glasgower Straße
+243,05200528,Weinmeisterhornweg
+244,05200526,Rudolf-Wissell-Großsiedlung
+245,05200527,Maulbeerallee
+246,05200525,Pillnitzer Weg
+247,05200524,Döberitzer Weg
+248,05200423,Magistratsweg
+249,05200422,Werkstraße
+250,05200418,Isenburger Weg
+251,05200421,Spandauer Straße
+252,05100208,Im Spektefeld
+253,05100207,An der Tränke
+254,05200419,Am Heideberg
+255,05400945,Kafkastraße
+256,05400944,Kladower Damm
+257,05400943,Jägerallee
+258,05400942,Alt-Gatow
+259,05100209,Westerwaldstraße
+260,05100206,Griesingerstraße
+261,05100102,Am Forstacker
+262,05300841,Siemensdamm
+263,05300840,Nonnendammallee
+264,05300839,Rohrdamm
+265,05300838,Gartenfeld
+266,05300735,Haveleck
+267,05100317,Freiheit
+268,05200633,Graetschelsteig
+269,05200630,Wilhelmstadt West
+270,05200631,Wilhelmstadt Ost
+271,05200629,Borkumer Straße
+272,05100210,Germersheimer Platz
+273,05100312,Eckschanze
+274,05100316,Carl-Schurz-Straße
+275,05100315,Ackerstraße
+276,05100105,Amorbacher Weg
+277,05100104,Maselake
+278,07400822,Lindenhofsiedlung
+279,07400720,Gontermannstraße
+280,07300517,Perelsplatz
+281,07200308,Volkspark (Rudolph-Wilde-Park)
+282,12400617,Alt-Heiligensee
+283,12400616,Konradshöhe/Tegelort
+284,12200414,TXL
+285,12200310,Klixstraße
+286,12200308,Mellerbogen
+287,12200307,Reinickes Hof
+288,12200411,Schumacher-Quartier
+289,12200309,Scharnweberstraße
+290,12100204,Schäfersee
+291,12100101,Letteplatz
+292,12100103,Breitkopfbecken
+293,12100102,Hausotterplatz
+294,12500927,Wittenau Nord
+295,12601133,Treuenbrietzener Straße
+296,12601235,Dannenwalder Weg
+297,12601031,Lübarser Straße
+298,12601134,Märkisches Zentrum
+299,12601236,Schorfheidestraße
+300,12601032,Rollbergesiedlung
+301,12500825,Borsigwalde
+302,12500824,Ziekowstraße/Freie Scholle
+303,12200515,Alt-Tegel
+304,12400618,Heiligensee Nord
+305,12200413,Tegel Süd
+306,12400722,Hermsdorf West
+307,12400720,Frohnau West
+308,12400721,Frohnau Ost
+309,05100314,Kurstraße
+310,07200413,Cheruskerstraße
+311,07200412,Schöneberger Linse
+312,07501029,Ringstraße
+313,07400826,Marienhöhe
+314,07300619,Grazer Platz
+315,07300618,Ceciliengärten
+316,03400619,Wilhelmsruh
+317,03400618,Rosenthal
+318,03200205,Uhlandstraße
+319,03200204,Blankenfelde
+320,03200206,Pastor-Niemöller-Platz
+321,03400721,Florakiez
+322,03601139,Norweger Viertel
+323,03400620,Schönholz
+324,03400722,Parkstraße
+325,03701657,Thälmannpark
+326,03601245,Ostseestraße
+327,03500935,Behaimstraße
+328,03500933,Weißer See
+329,03500932,Bühringstraße
+330,03501037,Rathaus Weißensee
+331,03601451,Anton-Saefkow-Park
+332,03601452,Velodrom
+333,03601450,Volkspark Prenzlauer Berg
+334,11300616,Hohenschönhausener Straße
+335,11200512,Orankesee
+336,03500936,Komponistenviertel Weißensee
+337,03601449,Michelangelostraße
+338,11200513,Große-Leege-Straße
+339,11200410,Malchower Weg
+340,03501038,Hansastraße
+341,11100102,Dorf Falkenberg
+342,11401034,Tierpark
+343,03100101,Bucher Forst
+344,03100102,Klinikum Buch
+345,03100103,Karower Chaussee
+346,03300411,Karow Nord
+347,03300412,Karow Bahnhof
+348,03300413,Karow Ost
+349,03200310,Krugpfuhl
+350,03200309,Eddastraße
+351,03200308,Nisbléstraße
+352,03200207,Herthaplatz
+353,03400725,Schlosspark
+354,03400724,Wolfshagener Straße
+355,03300517,Märchenland
+356,03300514,Blankenburg
+357,03300515,Blankenburger Süden
+358,03300516,Heinersdorf
+359,03500934,Weißenseer Spitze
+360,03400828,Spiekermann Straße
+361,03400827,Trelleborger Viertel
+362,03400829,Arnold-Zweig-Straße
+363,03400830,Kissingenviertel
+364,03400831,Pankower Tor
+365,03400723,Garbátyplatz
+366,03400826,Tiroler Viertel
+367,03601140,Malmöer Straße
+368,03601141,Arnimplatz
+369,03601142,Falkplatz
+370,03601348,Senefelderstraße
+371,03601347,Helmholtzplatz
+372,03601346,Gethsemanekirche
+373,03601243,Rodenbergstraße
+374,03601244,Humannplatz
+375,03701660,Bötzowstraße
+376,03701658,Christburger Straße
+377,03701659,Immanuelkirchstraße
+378,03701556,Kollwitzplatz
+379,03701555,Sredzkistraße
+380,03701554,Teutoburger Platz
+381,11100203,Falkenberg Ost
+382,11100204,Falkenberg West
+383,11100309,Mühlengrund
+384,11100308,Zingster Straße West
+385,11100307,Zingster Straße Ost
+386,11300620,Fennpfuhl Ost
+387,11300617,Fennpfuhlpark
+388,11300619,Rudolf-Seiffert-Park
+389,11300618,Storkower Bogen
+390,03601453,Alter Schlachthof
+391,11300724,Roedeliusplatz
+392,11300722,Rathaus Lichtenberg
+393,11300723,Bornitzstraße
+394,11400930,Zachertstraße
+395,11400929,Weitlingkiez
+396,11501340,Karlshorst Nord
+397,11501341,Karlshorst Süd
+398,11501339,Karlshorst West
+399,11401137,Erieseering
+400,11401136,Volkradstraße
+401,11401135,Dolgenseestraße
+402,11200514,Landsberger Allee
+403,11200515,Weiße Taube
+404,11200411,Hauptstraße
+405,11300826,Frankfurter Allee Süd
+406,11100205,Wartenberg Süd
+407,11100206,Wartenberg Nord
+408,11100101,Dörfer Malchow-Wartenberg
+409,11401033,Gensinger Straße
+410,11400931,Massower Straße
+411,10100104,Golliner Straße
+412,10100102,Rosenbecker Straße
+413,10100103,Wittenberger Straße
+414,10100207,Ahrensfelder Berge
+415,10200423,Böhlener Straße
+416,10200422,Hellersdorfer Promenade
+417,10200421,Helle Mitte
+418,10200417,Zossener Straße
+419,10100316,Landsberger Tor
+420,10200419,Havelländer Ring
+421,10200418,Kyritzer Straße
+422,10200420,Gut Hellersdorf
+423,10100206,Wuhletalstraße
+424,10100101,Marzahn West
+425,10100205,Gewerbegebiet Bitterfelder Straße
+426,10100208,Bürgerpark
+427,10100209,Lea-Grundig-Straße
+428,10100210,Marzahner Promenade
+429,10100315,Bärenstein
+430,10100314,Auersbergstraße
+431,10100313,Alt-Marzahn
+432,10100312,Springpfuhl
+433,10100311,Marzahner Chaussee
+434,10300731,Oberfeldstraße
+435,10300732,Buckower Ring
+436,10200525,Schleipfuhl
+437,10400835,Kaulsdorf Nord
+438,10200526,Boulevard Kastanienallee
+439,10200628,Neue Grottkauer Straße
+440,10200630,Cecilienplatz
+441,10400939,Alt-Mahlsdorf
+442,10400938,Mahlsdorf Nord
+443,10400941,Pilgramer Straße
+444,10400940,Elsensee
+445,10400837,Kaulsdorf Süd
+446,10400836,Alt-Kaulsdorf
+447,10300734,Biesdorf Süd
+448,10300733,Alt-Biesdorf
+449,10200629,Teterower Ring
+450,10200627,Am Kienberg
+451,10200524,Adele-Sandrock-Straße
+452,09301228,Schmöckwitz/Rauchfangswerder
+453,09301227,Karolinenhof
+454,09401635,Müggelheim
+455,09501838,Rahnsdorf
+456,09501737,Alt-Friedrichshagen
+457,09301126,Grünau
+458,09301025,Alt-Bohnsdorf
+459,09300922,Kosmos Viertel
+460,09300920,Dorf Altglienicke
+461,09502042,Mittelheide
+462,09401433,Allende II
+463,09200715,Wista
+464,09200716,Dörpfeldstraße West
+465,09200717,Dörpfeldstraße Ost
+466,09200819,Köllnische Vorstadt
+467,09200818,Spindlersfeld
+468,09501939,Bahnhofstraße
+469,09501941,Friedrichshagener Straße
+470,09401534,Altstadt Köpenick
+471,09501940,Güterbahnhof Köpenick
+472,09401431,Allende I
+473,09401432,Siedlung Kämmereiheide
+474,09501736,Hirschgarten
+475,09502043,Dammheide
+476,09200614,Oberspree
+477,09100409,Landschaftspark Adlershof
+478,09100408,Johannisthal Ost
+479,09100306,Späthsfelde
+480,09100407,Johannisthal West
+481,09200613,Bahnhof Schöneweide
+482,09100305,Baumschulenweg Ost
+483,09100304,Baumschulenweg West
+484,09200510,Helmholtz-Kiez
+485,09100203,Plänterwald Ost
+486,09100202,Plänterwald West
+487,09100101,Alt-Treptow
+488,04500937,Halensee
+489,02400623,Andreasviertel
+490,02100102,Mehringplatz
+491,02200210,Urbanstraße
+492,02200208,Rathaus Yorckstraße
+493,04100101,Jungfernheide/Plötzensee
+494,04300412,Schlossgarten
+495,04200308,Branitzer Platz
+496,05200634,Börnicker Straße
+497,05200632,Tiefwerder
+498,05300737,Gartenfelder Straße
+499,05300736,Zitadellenweg
+500,05100313,Eiswerder
+501,05100103,Mertensstraße
+502,05100101,Hakenfelde Nord
+503,12400619,Heiligensee
+504,12200412,Waldidyll/Flughafensee
+505,12500930,Wittenau Mitte
+506,12500926,Wittenau Süd
+507,12500929,Lübars
+508,12400723,Hermsdorf Ost/Waldsee
+509,12500928,Waidmannslust
+510,02400624,Weberwiese
+511,02400625,Wriezener Bahnhof
+512,04500938,Hochmeisterplatz
+513,09401329,Kietzer Feld/Nachtheide
+514,09401330,Wendenschloß
+515,06100206,Stadtpark
+516,06300630,Hindenburgdamm
+517,11400927,Victoriastadt
+518,11400928,Nöldnerplatz
+519,11501238,Rummelsburg
+520,06200420,Lichterfelde Süd
+521,05100211,An der Kappe
+522,05200420,Staakener Straße
+523,01100308,Charitéviertel
+524,01300836,Humboldthain Nordwest
+525,01200624,Heidestraße
+526,09301024,Falkenberg
+527,09300921,Preußen Siedlung
+528,09300923,Kölner Viertel
+529,09200512,Wuhlheide
+530,09200511,Griechischer Park
+531,11300721,Herzbergstraße
+532,04300622,Ernst-Reuter-Platz
+533,04300624,Savignyplatz
+534,11300725,Nibelungenviertel
+535,11401032,Rosenfelder Ring
+536,06200313,Lankwitz Kirche
+537,06200314,Kaiser-Wilhelm-Straße
+538,06200421,Königsberger Straße
+539,06200422,Oberhofer Platz
+540,12100205,Teichstraße
+541,12100206,Humboldtstraße
